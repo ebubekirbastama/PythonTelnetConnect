@@ -1,8 +1,8 @@
 import socket
 
 
-target_host = "34.248.251.3"
-target_port = 19001
+target_host = "ipadresi"
+target_port = port
 
 s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
